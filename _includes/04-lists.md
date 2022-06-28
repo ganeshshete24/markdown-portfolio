@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Ganesh
+- Nitin
+- Ansh
+
+1. Kiran
+2. Kishor
+3. Pradip
